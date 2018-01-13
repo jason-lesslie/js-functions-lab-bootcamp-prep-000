@@ -10,3 +10,7 @@ function happyHolidayTo(holiday, name){
   var stringOutput = "Happy ${holiday}, ${name}!"
   return stringOutput
 }
+function holidayCountdown(holiday, name){
+  var stringOutput = "Happy ${holiday}, ${name}!"
+  return stringOutput
+}
